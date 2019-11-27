@@ -1,0 +1,18 @@
+title{
+    font-size: 24px;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.bullets{
+    font-weight: bold;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+    line-height: 10px;
+}
